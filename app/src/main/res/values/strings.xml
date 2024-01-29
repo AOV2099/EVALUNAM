@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EVALUNAM</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_hint_boleta">No. Boleta</string>
+    <string name="login_hint_password">Contraseña</string>
+    <string name="login_hint_captcha">Captcha</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="remember_me">Recordarme</string>
+
+</resources>
